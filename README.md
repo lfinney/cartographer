@@ -19,6 +19,6 @@ Web app to empower individuals to create personalized maps that best meed the ne
 
 ## Examples of D3 that May Apply ##
 
-* [Zoomable Geography] (https://bl.ocks.org/mbostock/2374239)
-* [Vector Map of US] (http://bl.ocks.org/mbostock/5914438)
-* [Zoomable Tree Maps] (https://bost.ocks.org/mike/treemap/)
+* [Zoomable Geography](https://bl.ocks.org/mbostock/2374239)
+* [Vector Map of US](http://bl.ocks.org/mbostock/5914438)
+* [Zoomable Tree Maps](https://bost.ocks.org/mike/treemap/)
